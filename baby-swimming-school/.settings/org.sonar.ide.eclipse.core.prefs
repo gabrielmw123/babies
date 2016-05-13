@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.jdbc.password\=zurglub01\r\nsonar.jdbc.username\=sonar\r\nsonar.jdbc.url\=jdbc\:postgresql\://empoli/sonar?useUnicode\=true&characterEncoding\=utf8\r\nsonar.jdbc.driverClassName\=org.postgresql.Driver\r\nsonar.host.url\=http\://pisa\:10000
+projectKey=com.senneville.project\:baby-swimming-school
+serverUrl=http\://localhost\:9000
+version=2
